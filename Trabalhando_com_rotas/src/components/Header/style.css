@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: brown;
+  height: 100px;
+  padding: 0 30px;
+  color: aliceblue;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+
+}
+
+.nav a {
+  color: white;
+}
+
